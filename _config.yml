@@ -5,7 +5,7 @@ plugins:
 show_downloads: false
 
 github:
-  repository_url: 
+  repository_url: "/"
 
 title: The nobody's memo
 description: 😈 Per aspera ad astra.
