@@ -13,8 +13,13 @@ macOS Tahoe 系版本的 APP 「程序坞」管理界面太差了，相比之前
 
 
 下面是 macOS Tahoe 26 新版的界面和老版本界面的对比，可能由于截图大小的原因，新版本开起来很大，其实图标很小，我32寸显示器找起来都困难，而旧版本之需要鼠标切换即可翻找。
+
+
 ![macOS26suck](/images/macOS26suck.png)
 
+
 旧版本
+
+
 ![macOS26suck](/images/macOSgood.png)
 
